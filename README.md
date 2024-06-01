@@ -7,7 +7,8 @@ Hey there! I'm Otajonov, a versatile developer exploring various tech realms. Bu
 
 - **Python Backend**: 🐍 70%
 - **PHP Backend**: 💻 60%
-- **Go Backend**: ⏳ 1%
+- **Go Backend**: ⏳ 5%
+- **Flutter**: 🚀 75%
 - **REST API**: 🌐 70%
 - **WebSockets**: 💬 20%
 - **Web Frontend**: 🎨 40%

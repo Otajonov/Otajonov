@@ -1,4 +1,4 @@
-# Ro'zmat Otajonov's Profile 🚀
+# Otajonov's Profile 🚀
 
 ## About Me
 Hey there! I'm Otajonov, a versatile developer exploring various tech realms. Buckle up for a glimpse into my coding adventures!

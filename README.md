@@ -5,7 +5,6 @@ Hey there! I'm Otajonov, a versatile developer exploring various tech realms. Bu
 
 ## Skills 🛠️
 
-### IT/Programming
 - **Python Backend**: 🐍 70%
 - **PHP Backend**: 💻 60%
 - **Go Backend**: ⏳ 1%
@@ -17,14 +16,6 @@ Hey there! I'm Otajonov, a versatile developer exploring various tech realms. Bu
 - **Linux**: 🐧 45%
 - **Git**: 🔧 20%
 - **AI Engineering**: 🤖 5%
-
-### Languages 🌍
-- **O'zbek**: 🇺🇿 80%
-- **English**: 🇬🇧 50%
-- **Русский**: 🇷🇺 40%
-- **Français**: 🇫🇷 15%
-- **العربية**: 🇸🇦 5%
-
 
 ## How I Can Help You 🤝
 

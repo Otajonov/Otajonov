@@ -1,16 +1,40 @@
-## Hi there 👋
+# Ro'zmat Otajonov's Profile 🚀
 
-<!--
-**Otajonov/Otajonov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Hey there! I'm Otajonov, a versatile developer exploring various tech realms. Buckle up for a glimpse into my coding adventures!
 
-Here are some ideas to get you started:
+## Skills 🛠️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### IT/Programming
+- **Python Backend**: 🐍 70%
+- **PHP Backend**: 💻 60%
+- **Go Backend**: ⏳ 1%
+- **REST API**: 🌐 70%
+- **WebSockets**: 💬 20%
+- **Web Frontend**: 🎨 40%
+- **Mobile UI/UX**: 📱 50%
+- **Graphic Design**: ✏️ 20%
+- **Linux**: 🐧 45%
+- **Git**: 🔧 20%
+- **AI Engineering**: 🤖 5%
+
+### Languages 🌍
+- **O'zbek**: 🇺🇿 80%
+- **English**: 🇬🇧 50%
+- **Русский**: 🇷🇺 40%
+- **Français**: 🇫🇷 15%
+- **العربية**: 🇸🇦 5%
+
+
+## How I Can Help You 🤝
+
+### Developer Services
+**Need a developer?** I can create bespoke software, websites, and Telegram bots tailored to your needs.
+
+### Collaboration
+**Got an exciting project?** I'm always open to collaborating on innovative and impactful projects.
+
+### Consulting
+**Just starting out?** I’m here to offer guidance and support to fellow developers.
+
+Let's connect and build something amazing together! 🚀

@@ -3,7 +3,7 @@
 ## About Me
 Hey there! I'm Otajonov, a versatile developer exploring various tech realms. Buckle up for a glimpse into my coding adventures!
 
-## Activity _generated with [Platane/snk](https://github.com/Platane/snk)_
+## Activity // _generated with [Platane/snk](https://github.com/Platane/snk)_
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Otajonov/Otajonov/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Otajonov/Otajonov/output/github-contribution-grid-snake.svg">

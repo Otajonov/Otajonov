@@ -7,16 +7,18 @@ Hey there! I'm Otajonov, a versatile developer exploring various tech realms. Bu
 
 - **Python Backend**: 🐍 70%
 - **PHP Backend**: 💻 60%
-- **Go Backend**: ⏳ 5%
-- **Flutter**: 🕊 75%
+- **Flutter/Dart**: 🕊 75%
+- **Android**: 📲 40%
 - **REST API**: 🌐 70%
 - **WebSockets**: 💬 20%
 - **Web Frontend**: 🎨 40%
 - **Mobile UI/UX**: 📱 50%
 - **Graphic Design**: ✏️ 20%
 - **Linux**: 🐧 45%
-- **Git**: 🔧 20%
+- **Git**: 🔧 30%
 - **AI Engineering**: 🤖 5%
+- **Web3**: 🕸 5%
+- **Go Backend**: ⏳ 5%
 
 ## Activity 📆 / _generated with [Platane/snk](https://github.com/Platane/snk)_
 <picture>

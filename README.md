@@ -20,7 +20,7 @@ I'm Otajonov, a versatile developer exploring various tech realms. Buckle up for
 - **Web3**: 🕸 5%
 - **Go Backend**: ⏳ 5%
 
-## Activity 📆 / _generated with [Platane/snk](https://github.com/Platane/snk)_
+## Activity 📆
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Otajonov/Otajonov/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Otajonov/Otajonov/output/github-contribution-grid-snake.svg">

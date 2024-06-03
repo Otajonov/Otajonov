@@ -1,6 +1,7 @@
 # 👋 Hey there!
 
-### ![](https://komarev.com/ghpvc/?username=Otajonov&style=flat-square&label=Welcome)th viewer!
+## About Me 💻 ![](https://komarev.com/ghpvc/?username=Otajonov&style=flat-square&label=Views)
+
 I'm Otajonov, a versatile developer exploring various tech realms. Buckle up for a glimpse into my coding adventures!
 
 ## Skills 🛠️

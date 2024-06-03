@@ -37,4 +37,4 @@ Hey there! I'm Otajonov, a versatile developer exploring various tech realms. Bu
 ### Consulting
 **Just starting out?** I’m here to offer guidance and support to fellow developers.
 
-## _Let's connect and build something amazing together! 🚀 [Contact](https://t.me/RozmatOtajonov)_
+## _Let's connect and build something amazing [together! 🚀](https://t.me/RozmatOtajonov)_

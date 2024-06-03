@@ -1,4 +1,4 @@
-# 👋 Hey there!
+# 👋 Hey there! ![](https://komarev.com/ghpvc/?username=Otajonov)
 
 ## About Me 💻
 I'm Otajonov, a versatile developer exploring various tech realms. Buckle up for a glimpse into my coding adventures!

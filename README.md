@@ -1,7 +1,7 @@
-# Otajonov's Profile 🚀
+# Hey there! 👋
 
 ## About Me
-Hey there! I'm Otajonov, a versatile developer exploring various tech realms. Buckle up for a glimpse into my coding adventures!
+I'm Otajonov, a versatile developer exploring various tech realms. Buckle up for a glimpse into my coding adventures!
 
 ## Skills 🛠️
 

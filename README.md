@@ -20,6 +20,7 @@ I'm Otajonov, a versatile developer exploring various tech realms. Buckle up for
 - **Git**: 🔧 30%
 - **AI Engineering**: 🤖 5%
 - **Web3**: 🕸 5%
+- **C/C++**: 1%
 
 ## Activity 📆
 <picture>
